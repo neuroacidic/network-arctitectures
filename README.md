@@ -1,6 +1,6 @@
 # Network-arctitectures
 
-In this Project I've designed simple home and office network architectures. 
+In this Project I've designed simple college campus and office network architectures. 
 
 
 
